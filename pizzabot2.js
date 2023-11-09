@@ -36,15 +36,12 @@ function order(e) {
 
 
 
-
     
   orderTextEl.textContent = orderText;
 
 
   
 }
-
-
 
 
 
