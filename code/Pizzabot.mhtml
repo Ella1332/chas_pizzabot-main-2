@@ -1,0 +1,42 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/code/index.html
+Subject: Pizzabot
+Date: Thu, 9 Nov 2023 21:29:59 +0100
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--Iy32lAqAuH4FfJCOJqlasazHJnRVwyb500ImBHL2qk----"
+
+
+------MultipartBoundary--Iy32lAqAuH4FfJCOJqlasazHJnRVwyb500ImBHL2qk----
+Content-Type: text/html
+Content-ID: <frame-C1487CB669D45556E8CE534E44905C46@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/code/index.html
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3DUTF-8">
+   =20
+    <title>Pizzabot</title>
+  </head>
+  <body>
+    <h1>Welcome!</h1>
+    <h2>Pizza order from</h2>
+    <input type=3D"text" id=3D"pizzaType">
+    <input type=3D"text" id=3D"pizzaQuantity">
+    <button id=3D"orderBtn">order</button>
+    <p id=3D"orderText"></p>
+    <!-- <script src=3D"./pizzabot.js" charset=3D"utf-8"></script> -->
+   =20
+
+    <!--Edit pizzabot.js to complete this assignment.-->
+  <!-- Code injected by live-server -->
+
+
+
+<webchatgpt-custom-element-e03f2615-88ae-4844-8ef0-14c9c2222222 id=3D"webch=
+atgpt-snackbar" style=3D"color: rgb(255, 255, 255);"><template shadowmode=
+=3D"open"><div id=3D"webchatgpt-snackbar-container" style=3D"z-index: 21474=
+83647;"></div></template></webchatgpt-custom-element-e03f2615-88ae-4844-8ef=
+0-14c9c2222222></body></html>
+------MultipartBoundary--Iy32lAqAuH4FfJCOJqlasazHJnRVwyb500ImBHL2qk------
